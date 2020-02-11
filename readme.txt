@@ -1,1 +1,1 @@
-Git is a filee control system
+Git is a distributed version control system
